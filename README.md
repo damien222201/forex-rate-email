@@ -1,4 +1,5 @@
 # Forex Rate Email
+<img width="1920" height="1080" alt="Screenshot from 2026-09-21 19-23-44" src="https://github.com/user-attachments/assets/b89b34c7-8b80-403b-b7b1-1666e8b4c748" />
 
 Sends a daily email at 6:00 AM (WAT) with the current NGN value of 1
 USD, 1 GBP, 1 EUR, and 1 CAD, plus how much each has moved since
